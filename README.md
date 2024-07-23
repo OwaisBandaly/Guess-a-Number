@@ -19,7 +19,7 @@ This is a basic game where the user tries to guess a randomly generated number w
 
 ## How to Play
 
-You can play the game online [here]((https://owaisbandaly.github.io/Guess-a-Number/).
+You can play the game online [here](https://owaisbandaly.github.io/Significo-Clone/).
 
 ## Acknowledgments
 - This game was created as a fun project to practice JavaScript and Tailwind CSS.
