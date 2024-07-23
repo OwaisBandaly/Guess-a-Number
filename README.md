@@ -15,7 +15,6 @@ This is a basic game where the user tries to guess a randomly generated number w
 - **JavaScript**: Used for game logic and interactivity.
 - **Tailwind CSS**: Used for styling and layout.
 - **HTML**: Basic structure and rendering of the game.
-- **CSS**: Additional styles and customization.
 
 ## How to Play
 
