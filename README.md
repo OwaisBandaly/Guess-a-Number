@@ -17,6 +17,10 @@ This is a basic game where the user tries to guess a randomly generated number w
 - **HTML**: Basic structure and rendering of the game.
 - **CSS**: Additional styles and customization.
 
+## How to Play
+
+You can play the game online [here]({{ game_link }}).
+
 ## Acknowledgments
 - This game was created as a fun project to practice JavaScript and Tailwind CSS.
 - Inspired by classic number guessing games.
